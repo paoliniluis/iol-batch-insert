@@ -1,0 +1,7 @@
+node_modules/
+certs/
+data/
+package-lock.json
+*.csv
+*.xls
+*.sql
